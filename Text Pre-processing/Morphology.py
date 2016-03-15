@@ -1,10 +1,10 @@
 __author__ = 'Mohammed Shokr <mohammedshokr2014@gmail.com>'
 
 # WordNet
+import nltk
 from nltk.corpus import wordnet as wn
 
-# User Input
-#word = input("Enter Word: ")
+# Input
 word = "gone"
 
 # The root
