@@ -1,8 +1,12 @@
 __author__ = 'Mohammed Shokr <mohammedshokr2014@gmail.com>'
 
-# In the following code,
-# a relationship between an organization and a location has been defined and
-# we want to extract all the combinations of these patterns.
+"""
+Relation Extraction
+
+In the following code,
+a relationship between an organization and a location has been defined and
+we want to extract all the combinations of these patterns.
+""" 
 
 import nltk
 import re
